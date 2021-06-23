@@ -1,0 +1,26 @@
+{
+  "name": "sanjeevni",
+  "version": "1.0.0",
+  "description": "Portal For Covid Services",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon start",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanksha4715/Sanjeevni.git"
+  },
+  "keywords": [
+    "Sanjeevni"
+  ],
+  "author": "Akanksha Tomar Sugandha Sharma Rishabh Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akanksha4715/Sanjeevni/issues"
+  },
+  "homepage": "https://github.com/akanksha4715/Sanjeevni#readme",
+  "dependencies": {
+    "node": "^16.3.0"
+  }
+}
